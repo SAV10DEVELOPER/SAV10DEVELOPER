@@ -1,7 +1,7 @@
 ### Ol\00e1, meu nome é <b>Sávio<b> ✋
 
 <div> 
-  <a href="https://facebook.com/saviodeveloper" targe="_blank"> <img height="50" width="40" align="center" alt="Facebook src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
+  <a href="https://facebook.com/saviodeveloper"> <img height="50" width="40" align="center" alt="Facebook src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
     
 </div>
 
