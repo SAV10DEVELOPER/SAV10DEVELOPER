@@ -1,7 +1,8 @@
 ### Ol\00e1, meu nome é <b>Sávio<b> ✋
 
 <div> 
-  <a href="https://facebook.com/saviodeveloper" target="_blank"> <img height="50" width="40" align="center" alt="Facebook"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" target="_blank"></a>
+  <a href="https://facebook.com/saviodeveloper" targe="_blank"> <img height="50" width="40" align="center" alt="Facebook src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
+    
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark)
