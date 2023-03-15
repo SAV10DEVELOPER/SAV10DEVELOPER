@@ -3,7 +3,7 @@
 <div style="display: inline block"> 
 <a href="https://facebook.com/saviodeveloper" target="_blank"> <img height="50" width="50" align="center" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
 <a href="https://twitter.com/saviodeveloper" target="_blank"> <img height="50" width="50" align="center" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> </a>
-</div>
+</div> <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
