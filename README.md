@@ -1,6 +1,6 @@
 ### Ol\00e1, meu nome é <b>Sávio<b> ✋
 
-<div style="display: inline block"> 
+<div"> 
 <a href="https://www.linkedin.com/in/saviodeveloper/"> <img height="50" width="50" alt="Linkedin" src=""> </a>
 <a href="https://facebook.com/saviodeveloper"> <img height="50" width="50" alt="Facebook" src=""> </a>
 <a href="https://twitter.com/saviodeveloper"> <img height="50" width="50" alt="Twitter" src=""> </a>
