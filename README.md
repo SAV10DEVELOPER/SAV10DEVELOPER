@@ -13,7 +13,7 @@
 </div> <br/>
 
 <div style="display: inline block">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark" />                                             <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark" />                                             <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact&theme=dark" />
 </div> </br>
   
 ### Tecnologias do meu dia a dia 👨‍💻
