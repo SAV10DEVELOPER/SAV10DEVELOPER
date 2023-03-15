@@ -1,5 +1,5 @@
 ### Ol\00e1, meu nome é <strong>Sávio</strong> ✋
-#### Links para contato
+#### Links para contato 🔽 
 
 <div> 
   <a href="https://www.linkedin.com/in/saviodeveloper/"> <img height="50" width="50" alt="Linkedin" src=""> </a>
@@ -16,7 +16,8 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark" />                                             <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact" />
 </div> </br>
   
-### Tecnologias do meu dia a dia
+### Tecnologias do meu dia a dia 👨‍💻
+
 <div style="display: inline block">
   <img height="50" width="50" align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" width="50" align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
