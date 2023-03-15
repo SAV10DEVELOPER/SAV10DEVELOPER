@@ -1,6 +1,6 @@
 ### Ol\00e1, meu nome é <b>Sávio<b> ✋
 
-<div> 
+<div style="display: inline block"> 
 <a href="https://facebook.com/saviodeveloper" target="_blank"> <img height="50" width="40" align="center" alt="Facebook src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" target="_blank"></a>
 </div>
 
