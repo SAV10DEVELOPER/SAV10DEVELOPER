@@ -1,8 +1,8 @@
 ### Ol\00e1, meu nome é <b>Sávio<b> ✋
 
 <div style="display: inline block"> 
-<a href="https://facebook.com/saviodeveloper" target="_blank"> <img height="50" width="40" align="center" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
-<a href="https://twitter.com/saviodeveloper" target="_blank"> <img height="50" width="40" align="center" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> </a>
+<a href="https://facebook.com/saviodeveloper" target="_blank"> <img height="50" width="50" align="center" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> </a>
+<a href="https://twitter.com/saviodeveloper" target="_blank"> <img height="50" width="50" align="center" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"> </a>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark)
@@ -10,9 +10,9 @@
 
 ### Tecnologias do meu dia a dia
 <div style="display: inline block">
-  <img height="50" width="40" align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50" width="40" align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50" width="40" align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50" width="50" align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50" width="50" align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50" width="50" align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div> <br/>
 
 ### Desenvolvedor, Entusiasta de Tecnologia & Estudante
