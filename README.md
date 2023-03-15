@@ -1,4 +1,4 @@
-### Ol\00e1, eu sou o Sávio ✋
+### Ol\00e1, meu nome é Sávio ✋
 
 [![Link](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://beacons.ai/saviodeveloper)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saviodeveloper/)
@@ -15,6 +15,6 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+</div> <br/>
 
 ### Desenvolvedor, Entusiasta de Tecnologia & Estudante
