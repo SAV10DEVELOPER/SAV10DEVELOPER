@@ -1,7 +1,7 @@
 ### Ol\00e1, meu nome é <b>Sávio<b> ✋
 
 <div style="display: inline block"> 
-<a href="https://twitch.com/saviodeveloper" target="_blank"> <img height="50" width="40" align="center" alt="Twitch" src="https://i.pinimg.com/originals/3b/1a/c3/3b1ac3a9b4edd613465cec70dfc77b81.jpg"> </a>
+<a href="https://twitch.com/saviodeveloper" target="_blank"> <img height="50" width="50" align="center" alt="Twitch" src="https://i.pinimg.com/originals/3b/1a/c3/3b1ac3a9b4edd613465cec70dfc77b81.jpg"> </a>
 </div> <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark)
