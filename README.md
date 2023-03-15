@@ -9,11 +9,10 @@
 <a href="https://twitch.com/saviodeveloper"> <img height="50" width="50" alt="Twitch" src="https://i.pinimg.com/originals/3b/1a/c3/3b1ac3a9b4edd613465cec70dfc77b81.jpg"> </a>
 <a href="https://www.youtube.com/@saviodeveloper2634/featured"> <img height="50" width="50" alt="Discord" src=""> </a>
 <a href="https://steamcommunity.com/id/saviodeveloper/"> <img height="50" width="50" alt="Steam" src=""> </a>
-</div> <br/> <br/>
+</div> <br/>
 
 <div style="display: inline block">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark" /> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact" />
 </div>
   
 ### Tecnologias do meu dia a dia
