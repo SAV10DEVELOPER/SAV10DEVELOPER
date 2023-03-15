@@ -9,6 +9,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/saviodeveloper/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias do meu dia a dia
 <div style="display: inline block"><br/>
