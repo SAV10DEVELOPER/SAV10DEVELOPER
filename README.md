@@ -12,8 +12,8 @@
 </div> <br/> <br/>
 
 <div style="display: inline block">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-<img height="200" src="" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=SAV10DEVELOPER&show_icons=true&theme=dark" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAV10DEVELOPER&layout=compact" />
   
 ### Tecnologias do meu dia a dia
 <div style="display: inline block">
