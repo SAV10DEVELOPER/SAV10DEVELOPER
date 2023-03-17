@@ -1,4 +1,4 @@
-### Ol\00e1, meu nome é <strong>Sávio</strong> ✋
+### Ol\00e1, meu nome é **Sávio** ✋
 ### Links para contato 🔽 
 
 <div> 
